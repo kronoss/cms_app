@@ -1,2 +1,2 @@
-# cms_app
-Rails CMS
+# CMS APP
+Single Ruby on Rails CMS
